@@ -1578,8 +1578,8 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 400;
-		color: #483949;
+		font-weight: 500;
+		color: #DD25EA;
 		line-height: 1.25em;
 	}
 
@@ -2100,7 +2100,7 @@
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
-		color: #fff;
+		color: #cb1d1d;
 		text-align: center;
 		padding: 7.5em 0 2em 0;
 		cursor: default;
